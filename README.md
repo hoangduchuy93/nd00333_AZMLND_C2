@@ -15,10 +15,12 @@ In this project, I will work with the Bank Marketing dataset. I will use the Azu
 ## Key Steps
 ### 1. AutoML preparation
 1.1 Get the Bank Market dataset
+Create the dataset
 <img width="675" alt="image" src="https://github.com/user-attachments/assets/e07316cf-17ce-46d9-9c7b-8a7db6293699">
 
 
 1.2 Create a compute cluster
+Create the cluster
 <img width="674" alt="image" src="https://github.com/user-attachments/assets/7ac5b81d-d378-4ee9-a7ff-3f1e59ceeb34">
 
 
