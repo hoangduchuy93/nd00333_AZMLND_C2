@@ -42,6 +42,9 @@ The best model is Voting Ensemble
 The application Insights is enable
 <img width="674" alt="image" src="https://github.com/user-attachments/assets/553e5dd5-5a3e-4713-a13e-8486d1d7f089">
 
+Run the logs.py
+<img width="343" alt="image" src="https://github.com/user-attachments/assets/602e6f09-fe62-4976-8726-5adb2727d9b3">
+
 
 ### 3. Consume endpoint
 3.1 Swagger documentation
