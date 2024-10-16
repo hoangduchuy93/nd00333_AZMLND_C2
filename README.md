@@ -51,18 +51,42 @@ Run the logs.py
 
 ### 3. Consume endpoint
 3.1 Swagger documentation
-picture of swagger
+Run the swagger as screen below
+
+<img width="677" alt="image" src="https://github.com/user-attachments/assets/d0c17980-584f-4d33-978e-856c98b449ed">
+
 
 3.2 Endpoint interaction
-picture of endpoint in console
+Get the classification result
+
+<img width="281" alt="image" src="https://github.com/user-attachments/assets/6964567d-9a0e-4f5a-a71d-445b4423cc29">
+
 
 
 ### 4. Publish and consume the pipeline
-4.1 Pipeline endpoint
-picture of pipeline endpoint
+4.1 Pipeline created
 
-4.2 Pipeline consume
-picture of pipeline active
+<img width="674" alt="image" src="https://github.com/user-attachments/assets/de707528-dba6-4ba7-b7fe-f0b520873dd4">
+
+4.2 Pipeline endpoint
+
+
+<img width="677" alt="image" src="https://github.com/user-attachments/assets/0e47d94b-bf2e-4a6a-8289-41f47b66229b">
+
+4.3 Banking Market dataset
+
+<img width="671" alt="image" src="https://github.com/user-attachments/assets/13f92075-43a5-4fe2-83ae-db3a45d5e77d">
+
+4.4 Public pipeline
+
+<img width="673" alt="image" src="https://github.com/user-attachments/assets/671f2461-5ce4-44b2-8cf9-a2d513c7cec2">
+
+
+4.5 Pipeline run in notebook
+
+<img width="512" alt="image" src="https://github.com/user-attachments/assets/40bdfe23-f4d0-43cf-a43b-156bdd11bd3a">
+
+
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
