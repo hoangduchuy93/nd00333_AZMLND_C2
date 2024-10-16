@@ -17,8 +17,10 @@ In this project, I will work with the Bank Marketing dataset. I will use the Azu
 1.1 Get the Bank Market dataset
 <img width="675" alt="image" src="https://github.com/user-attachments/assets/e07316cf-17ce-46d9-9c7b-8a7db6293699">
 
+
 1.2 Create a compute cluster
 <img width="674" alt="image" src="https://github.com/user-attachments/assets/7ac5b81d-d378-4ee9-a7ff-3f1e59ceeb34">
+
 
 1.3 Submit and run the experiment
 The experiment is completed
@@ -31,7 +33,7 @@ The best model is Voting Ensemble
 <img width="671" alt="image" src="https://github.com/user-attachments/assets/13084117-e042-4a78-ba44-9c048c323983">
 
 
-2.3 Log enable
+2.2 Log enable
 The application Insights is enable
 <img width="674" alt="image" src="https://github.com/user-attachments/assets/553e5dd5-5a3e-4713-a13e-8486d1d7f089">
 
