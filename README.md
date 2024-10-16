@@ -21,18 +21,20 @@ In this project, I will work with the Bank Marketing dataset. I will use the Azu
 <img width="674" alt="image" src="https://github.com/user-attachments/assets/7ac5b81d-d378-4ee9-a7ff-3f1e59ceeb34">
 
 1.3 Submit and run the experiment
-picture here
+The experiment is completed
+<img width="673" alt="image" src="https://github.com/user-attachments/assets/883d0355-ffa7-4942-b124-fb0a0fa5f605">
+
 
 ### 2. Deploy the best model
-2.1 Best model review
-picture of the best model is voting
+2.1 Deploy the best model
+The best model is Voting Ensemble
+<img width="671" alt="image" src="https://github.com/user-attachments/assets/13084117-e042-4a78-ba44-9c048c323983">
 
-2.2 Deploy the best model
-picture of deploye model is sucess
 
 2.3 Log enable
-picture of log enable
-picture of log console
+The application Insights is enable
+<img width="674" alt="image" src="https://github.com/user-attachments/assets/553e5dd5-5a3e-4713-a13e-8486d1d7f089">
+
 
 ### 3. Consume endpoint
 3.1 Swagger documentation
